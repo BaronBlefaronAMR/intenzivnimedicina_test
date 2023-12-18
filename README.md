@@ -1,4 +1,4 @@
-# intenzivnimedicina_test
+# Výpracky z Intenzivní Medicíny
 Vitaj!
 Toto je testovacie "Repo" (angl. repository), alebo aj úložisko, na ktorom nájdeš študentami spracované otázky ku skúške z Inzenzívnej medicíny na LF MU v Brne. 
 Túto formu som zvolil spolu s mojimi kolegami aby sme prípadné zmeny mohli aktualizovať a aby bol v rôznych verziách výpraciek prehľad. Zabezpečíme takto dlhú životnosť našej práce.
